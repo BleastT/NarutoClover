@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NarutoClover
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning pygame, html,Css, js, react
+- 👋 Hi, I’m @Bleast
+- 👀 I’m a young programmer. 
+- 🌱 I’m currently able to work with python, javascript, html, css and c#
 - 💞️ I’m looking to collaborate on your projects
 - 📫 How to reach me AYassinee2007@gmail.com
 
